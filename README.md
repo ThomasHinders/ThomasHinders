@@ -12,6 +12,6 @@ Skills:  REACT / JS / HTML / CSS / BOOTSTRAP / GIT
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ThomasHinders)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thomas-hinders-74984423b//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasHinders)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasHinders&show_icons=true)  
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThomasHinders&show_icons=true)  
 
 
